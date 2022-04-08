@@ -11,7 +11,7 @@
 - Jest
 
 
-## Live Demo (Link for My ToDoList Project)
+## Live Demo
 
 [Live Demo Link]()
 
